@@ -40,7 +40,7 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 1280,
         height: 800,
-        title: 'Driftara Video',
+        title: 'Synth Video Gallery',
         backgroundColor: '#09090b', // zinc-950
         webPreferences: {
             preload: path.join(__dirname, 'preload.js'),
