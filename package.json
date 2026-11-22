@@ -2,8 +2,9 @@
   "name": "driftara-video",
   "private": true,
   "version": "1.1.0",
-  "description": "Driftara Video — standalone video gallery desktop app",
-  "author": "Driftara Video",
+  "description": "Synth Video Gallery — standalone video gallery desktop app",
+  "homepage": "https://synthet.github.io",
+  "author": "synthet",
   "main": "dist-electron/main.js",
   "scripts": {
     "dev": "concurrently --kill-others --success command-electron -n server,vite,electron \"npm run server\" \"vite\" \"npm run dev:electron\"",
