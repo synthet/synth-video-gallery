@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
-import { LABEL_COLORS } from '@synthet/image-scoring-design';
+import { LABEL_COLORS } from '@synthet/synth-photo-design';
 import { X, Star, ExternalLink, Trash } from 'lucide-react';
 import { formatBytes, formatDuration } from '../../utils/format';
 import { api, isElectron } from '../../store/videoStore';

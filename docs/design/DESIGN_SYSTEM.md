@@ -1,12 +1,12 @@
 # Design system (Driftara Video)
 
-Canonical palette, labels, and status colors live in the sibling package **[@synthet/image-scoring-design](https://github.com/synthet/image-scoring-ui)** (`../image-scoring-ui`).
+Canonical palette, labels, and status colors live in the sibling package **[@synthet/synth-photo-design](https://github.com/synthet/synth-photo-design)** (`../image-scoring-ui`).
 
 ## Consumption
 
 | Layer | File |
 |-------|------|
-| Shared tokens | `src/styles/tokens.css` → `@import '@synthet/image-scoring-design/tokens.css'` |
+| Shared tokens | `src/styles/tokens.css` → `@import '@synthet/synth-photo-design/tokens.css'` |
 | App layout/spacing | `src/styles/tokens.local.css` |
 | Shell layout | `src/styles/layout.css` |
 | Global utilities | `src/index.css` |
