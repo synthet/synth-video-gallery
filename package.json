@@ -38,7 +38,7 @@
     ]
   },
   "dependencies": {
-    "@synthet/image-scoring-design": "file:../image-scoring-ui",
+    "@synthet/synth-photo-design": "file:../image-scoring-ui",
     "electron-is-dev": "^3.0.1",
     "express": "^5.2.1",
     "lucide-react": "^0.563.0",

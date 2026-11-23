@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { LABEL_COLORS, LABEL_FALLBACK_COLOR } from '@synthet/image-scoring-design';
+import { LABEL_COLORS, LABEL_FALLBACK_COLOR } from '@synthet/synth-photo-design';
 import type { VideoFilters } from '../../store/videoStore';
 import styles from './FilterPanel.module.css';
 
